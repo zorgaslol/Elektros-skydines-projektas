@@ -1,0 +1,20 @@
+[
+  { "name": "Socket", "price": 3.5, "icon": "icons/socket.png" },
+  { "name": "Light Switch", "price": 2.8, "icon": "icons/switch.png" },
+  { "name": "Breaker B10", "price": 5.5, "icon": "icons/breaker-b10.png" },
+  { "name": "Breaker B16", "price": 6.0, "icon": "icons/breaker-b16.png" },
+  { "name": "Breaker C16", "price": 6.2, "icon": "icons/breaker-c16.png" },
+  { "name": "Breaker C20", "price": 6.5, "icon": "icons/breaker-c20.png" },
+  { "name": "RCD 2P 30mA", "price": 17.0, "icon": "icons/rcd-2p.png" },
+  { "name": "RCD 4P 30mA", "price": 21.0, "icon": "icons/rcd-4p.png" },
+  { "name": "Fuse Holder", "price": 3.0, "icon": "icons/fuse.png" },
+  { "name": "Contactor", "price": 14.0, "icon": "icons/contactor.png" },
+  { "name": "Timer Relay", "price": 12.0, "icon": "icons/timer.png" },
+  { "name": "Transformer 24V", "price": 22.0, "icon": "icons/transformer.png" },
+  { "name": "Blank Module", "price": 1.0, "icon": "icons/blank.png" },
+  { "name": "Terminal Block", "price": 2.0, "icon": "icons/terminal.png" },
+  { "name": "DIN Rail", "price": 3.5, "icon": "icons/din-rail.png" },
+  { "name": "Indicator Light", "price": 2.2, "icon": "icons/indicator.png" },
+  { "name": "Main Switch", "price": 10.5, "icon": "icons/mainswitch.png" },
+  { "name": "Surge Protector", "price": 15.0, "icon": "icons/surge.png" }
+]
