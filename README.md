@@ -1,6 +1,6 @@
-![Main page](skydine.png)
-
 # Elektros Skydinės Projektas
+
+![Main page](skydine.png)
 
 Web application for configuring an electrical distribution board using a drag-and-drop interface, automatic price calculation, and configuration export functionality.
 
@@ -72,6 +72,7 @@ No license specified.
 
 GitHub: https://github.com/zorgaslol
 LinkedIn: https://www.linkedin.com/in/ugnius-zorgevicius-b07b3a38a/
+
 
 
 
