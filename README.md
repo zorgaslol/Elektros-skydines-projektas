@@ -1,4 +1,4 @@
-![Main page](screenshots/skydine.png)
+![Main page](skydine.png)
 
 # Elektros Skydinės Projektas
 
@@ -72,5 +72,6 @@ No license specified.
 
 GitHub: https://github.com/zorgaslol
 LinkedIn: https://www.linkedin.com/in/ugnius-zorgevicius-b07b3a38a/
+
 
 
