@@ -30,18 +30,6 @@ The project focuses on practical JavaScript logic and interactive frontend behav
 
 ---
 
-## Project Structure
-
-Elektros-skydines-projektas/
-├── index.html
-├── script.js
-├── style.css
-├── item.json
-├── icons/
-└── README.md
-
----
-
 ## Getting Started
 
 Clone the repository:
@@ -82,3 +70,4 @@ No license specified.
 
 GitHub: https://github.com/zorgaslol
 LinkedIn: https://www.linkedin.com/in/ugnius-zorgevicius-b07b3a38a/
+
